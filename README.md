@@ -9,3 +9,5 @@ The result is a combined positioning and lighting system that allows for effects
 If you have implemented [**PosiStageNet**](https://www.posistage.net/) in your system and would like to be mentioned on the website, or you have used [**PosiStageNet**](https://www.posistage.net/) for a project and would like to submit material for our Projects Showcase, or for other enquiries, please contact us at **info@posistage.net**
 
 # Posistage AVR - A tracker port for Arduino Mega2560
+IMU code added for basic rotation tracking.
+Use Stage Tracker II in MA2 for this to function. 
