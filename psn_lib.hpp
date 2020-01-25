@@ -26,3 +26,12 @@
 
 #include "psn_defs.hpp"
 #include "psn_encoder_impl.hpp"
+#include <SPI.h>
+#include <Ethernet.h>
+#include <EthernetUdp.h>
+#include <cmath>
+#include <iostream>
+#include <list>
+#include <cstring>
+#include <string>
+#include <avr_stl.h>
